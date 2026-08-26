@@ -1,20 +1,36 @@
 <div align="center">
-  <a href="https://ibrahim-tagari.vercel.app/" target="_blank">
-    <img
-      src="https://vercel.app/assets/engineer-character-DpmhApQO.png"
-      width="45"
-      height="45"
-      alt="Portfolio"
-    />
-  </a>
+  <table
+    width="100%"
+    cellpadding="0"
+    cellspacing="0"
+    border="0"
+    background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-F9mMJbH7EqyZUZIP4awUFU9fIWkaLyRmnzNiMFySvw&s=10"
+  >
+    <tr>
+      <td
+        width="150"
+        align="center"
+        valign="middle"
+        style="padding: 20px;"
+      >
+        <img
+          src="https://ibrahim-tagari.vercel.app/assets/engineer-character-DpmhApQO.png"
+          width="110"
+          height="110"
+          style="border-radius: 50%; object-fit: cover;"
+          alt="Ibrahim Tagari"
+        />
+      </td>
 
-  <a href="https://waren.build/" target="_blank">
-    <img
-      src="https://waren.build/assets/github-repo-banner.png"
-      height="45"
-      alt="GitHub Repo Banner"
-    />
-  </a>
+      <td align="center" valign="middle">
+        <img
+          src="https://ghrb.waren.build/banner?header=Ibrahim+Tagari&subheader=Software+Engineer+%7C+Computer+Science+%7C+Full-Stack+Development&bg=00000000&color=ffffff&subheadercolor=ffffff&headerfont=Permanent+Marker&watermarkpos=bottom-right"
+          width="100%"
+          alt="Ibrahim Tagari - Software Engineer"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 # 👋 Hi, I'm Ibrahim Tagari
