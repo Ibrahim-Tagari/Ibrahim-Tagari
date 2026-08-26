@@ -1,16 +1,20 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 0; margin: 0; vertical-align: middle;">
-        <a href="https://vercel.app" style="text-decoration: none; border: none; display: inline-block;">
-          <img src="https://vercel.appassets/engineer-character-DpmhApQO.png" width="45" height="45" style="border-radius: 50% !important; border-radius: 9999px !important; object-fit: cover; display: block; vertical-align: middle; max-width: none;" alt="Portfolio Icon" />
-        </a>
-      </td>
-      <td style="border: none; padding: 0 0 0 10px; margin: 0; vertical-align: middle;">
-        <img src="https://waren.build" height="45" style="display: block; vertical-align: middle; max-width: none;" alt="GitHub Repo Banner" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://ibrahim-tagari.vercel.app/" target="_blank">
+    <img
+      src="https://vercel.app/assets/engineer-character-DpmhApQO.png"
+      width="45"
+      height="45"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://waren.build/" target="_blank">
+    <img
+      src="https://waren.build/assets/github-repo-banner.png"
+      height="45"
+      alt="GitHub Repo Banner"
+    />
+  </a>
 </div>
 
 # 👋 Hi, I'm Ibrahim Tagari
