@@ -1,3 +1,5 @@
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Hello+World&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&watermarkpos=bottom-right)
+
 # 👋 Hi, I'm Ibrahim Tagari
 
 ### Software Engineer | Full-Stack Developer | Systems & AI Enthusiast
