@@ -1,11 +1,17 @@
-<p align="center">
-  <a href="https://ibrahim-tagari.vercel.app/" style="vertical-align: middle;">
-    <img src="https://ibrahim-tagari.vercel.app/assets/engineer-character-DpmhApQO.png" width="50" height="50" style="border-radius: 50%; object-fit: cover; display: inline-block; vertical-align: middle;" alt="Portfolio Icon" />
-  </a>
-  <img src="https://ghrb.waren.build/banner?header=Hello+World&bg=00000000&color=000000&headerfont=Permanent+Marker&watermarkpos=bottom-right" alt="GitHub Repo Banner" style="vertical-align: middle; display: inline-block;" />
-</p>
-
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0; margin: 0; vertical-align: middle;">
+        <a href="https://vercel.app" style="text-decoration: none; border: none; display: inline-block;">
+          <img src="https://vercel.appassets/engineer-character-DpmhApQO.png" width="45" height="45" style="border-radius: 50% !important; border-radius: 9999px !important; object-fit: cover; display: block; vertical-align: middle; max-width: none;" alt="Portfolio Icon" />
+        </a>
+      </td>
+      <td style="border: none; padding: 0 0 0 10px; margin: 0; vertical-align: middle;">
+        <img src="https://waren.build" height="45" style="display: block; vertical-align: middle; max-width: none;" alt="GitHub Repo Banner" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 👋 Hi, I'm Ibrahim Tagari
 
