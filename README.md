@@ -1,4 +1,11 @@
-![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Hello+World&bg=00000000&color=000000&headerfont=Permanent+Marker&watermarkpos=bottom-right)
+<p align="center">
+  <a href="https://ibrahim-tagari.vercel.app/" style="vertical-align: middle;">
+    <img src="https://ibrahim-tagari.vercel.app/assets/engineer-character-DpmhApQO.png" width="50" height="50" style="border-radius: 50%; object-fit: cover; display: inline-block; vertical-align: middle;" alt="Portfolio Icon" />
+  </a>
+  <img src="https://ghrb.waren.build/banner?header=Hello+World&bg=00000000&color=000000&headerfont=Permanent+Marker&watermarkpos=bottom-right" alt="GitHub Repo Banner" style="vertical-align: middle; display: inline-block;" />
+</p>
+
+
 
 # 👋 Hi, I'm Ibrahim Tagari
 
