@@ -145,8 +145,8 @@ Software Engineering
 ---
 
 ## 📊 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ibrahim-Tagari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Tagari)](https://github.com/Ibrahim-Tagari/github-readme-stats)
 ---
 
 ## 🌐 Socials:
