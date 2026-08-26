@@ -145,9 +145,9 @@ Software Engineering
 ---
 
 ## 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ibrahim-Tagari)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ibrahim-Tagari&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Ibrahim-Tagari&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ibrahim-Tagari&layout=donut-vertical&langs_count=5&hide_values=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=Ibrahim-Tagari&layout=donut-vertical&langs_count=5&hide_values=true&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ibrahim-Tagari&hide_progress=true&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Ibrahim-Tagari&hide_progress=true&langs_count=5&hide_values=true&theme=radical)
 
 ---
 
