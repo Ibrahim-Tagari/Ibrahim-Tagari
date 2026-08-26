@@ -169,6 +169,5 @@ Software Engineering
 
 I'm always interested in **software engineering opportunities, interesting projects, collaboration, and learning from other developers.**
 
-> **Build. Learn. Improve. Repeat.**
+**Build. Learn. Improve. Repeat.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=IbrahimTagari\&style=flat-square\&color=blue)
